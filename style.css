@@ -5,10 +5,7 @@ min-height: 100%;
 
 body {
   background-image: url("images/background.png");
-  margin-bottom: 90px;
 }
-
-
 
 .navbar-default{
   background-color: #ffffff;
@@ -112,7 +109,7 @@ font-size: 18px;
 }
 
 
-#footer{
+.footer{
 text-align: center;
 font-family: "Georgia", Times, "Times New Roman", serif;
 background-color: #666666;
